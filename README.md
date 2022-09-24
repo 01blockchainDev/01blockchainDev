@@ -21,17 +21,17 @@
   
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=crazycodinglover&theme=algolia" alt="crazycodinglover" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01blockchainDev&theme=algolia" alt="crazycodinglover" /></p>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="crazycodinglover's Github Stats" src="https://github-readme-stats.vercel.app/api?username=crazycodinglover&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="01blockchainDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=01blockchainDev&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycodinglover&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="crazycodinglover" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01blockchainDev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="01blockchainDev" height="192px"/>
   <br/>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/crazycodinglover"><img alt="crazycodinglover's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=crazycodinglover&custom_title=crazycodinglover's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/01blockchainDev"><img alt="01blockchainDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=01blockchainDev&custom_title=01blockchainDev's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
