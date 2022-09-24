@@ -21,7 +21,7 @@
   
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01blockchainDev&theme=algolia" alt="crazycodinglover" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01blockchainDev&theme=algolia" alt="01blockchainDev" /></p>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
