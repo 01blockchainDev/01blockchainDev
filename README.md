@@ -1,27 +1,44 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B+there!;Blockchain+FullStack Developer;&center=true&width=500&height=50"></a>
-</p>
+#### &#10029; Frontend
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; React, React Native, IOS, Next.js, Gatsby.js, Electron, Vue, Angular <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Redux, RESTful, GraphQL API, Web3.js, Ethers.js <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Javascript, Typescript <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; HTML, CSS, SCSS, SASS <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Tailwind CSS, Bootstrap, Material-UI, Chakra-UI, Headless-UI
+
+
+#### &#10029; Backend
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Node, Express, Nest.js, Google Apps script <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Django, Flask <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; AWS (S3, Lambda, Amplify, EC2, Codebuild, Codepipeline, RDS, Cogniter, Route53, CloudFront, DynamoDB, VPC) <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; KeystoneJS, Contentful, Strapi, Prismic <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Laravel, WordPress, PHP <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; MySQL, MongoDB, PostgreSQL, GraphDB, CouchDB <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Firebase, Elastic Search, Meili Search, Algoria Search<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Nginx, Apache, GCP, Linux <br/>
   
-#### &#10029; Programming language
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; C/C++, JavaScript, Solidity, HTML, CSS, PHP, C#, Python, Rust, Go, Ruby, Typescript <br/>
-
 #### &#10029; Blockchain
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Solidity, Smart-Contracts, Web3.js, Ethers.js,  Truffle , Hardhat <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; NFT , Blockchain Game , DAO , DApp , DeFi , DEX
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Bitcoin, Ethereum, Polygon, Arbitrum, Solana, BNB, Aptos, Hedera, Hyper Ledger, Fabric Ledger <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Solidity, Rust, Haskell, Golang, C/C++ <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; ERC20, ERC721, ERC721A, ERC1155, BEP20 <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Defi, DEX, AMM, Yield Farming, UniSwap, PancakeSwap,Sushi Swap <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Third-party APIs (Moralis, Alchemy, Cryptocompare, Etherscan, Opensea, Debank, Zapper, JSON_RPC) <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; NFT, F-NFT marketplace, chainlink, on-chain/off-chain <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Blockchain architecture, Consensus algorithm,  Cryptography <br />
 
-#### &#10029; Web Developments:
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; React.js / Next.js , Angular , Vue.js / Nuxt.js, Laravel/WordPress <br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; material ui, ant design, react-bootstrap  
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Node.js / Express.js,  Python / Flask
-  &#9989; MySQL , PostGreSQL , GraphQL , MongoDB
+#### &#10029; DevOps
+&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Azure, Docker, Terraform, EKS, Jenkins
 
-#### &#10029; Others:
-  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; git, jira, slack, trello, docker, docker-compose, AWS, Google cloud
-
+#### &#10029; Others
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Data structures & Algorithms <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Jest, Cypress, Mocha, Chai, Unit test <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Jira, Trello, Asana, Pivotal <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&#9989; Github, Bitbucket, Gitlab, CI/CD <br/>
   
 ## 🔥 Streak Stats
+<div align="center">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=01blockchainDev&theme=blueberry&hide_border=true" />
+</div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=01blockchainDev&theme=algolia" alt="01blockchainDev" /></p>
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -30,8 +47,4 @@
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01blockchainDev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="01blockchainDev" height="192px"/>
-  <br/>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/01blockchainDev"><img alt="01blockchainDev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=01blockchainDev&custom_title=01blockchainDev's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
